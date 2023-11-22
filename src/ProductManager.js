@@ -146,7 +146,7 @@ async function main()
         price:40000,
         thumbnail: "sin imagen",
         code: "zxy 321",
-        stock: 4
+        stock: 3
     });
 
     console.log(await client.getProducts());
